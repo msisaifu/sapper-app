@@ -1,0 +1,21 @@
+main{
+  height:100vh;
+  width:100vw;
+}
+body{
+  margin:0;
+  padding:0;
+  overflow: auto;
+}
+
+.has-cursor-pointer{
+  cursor: pointer;
+}
+
+.highlight {
+  border: 1px solid #FFF !important;
+  outline: 0;
+  color: #fff;
+  padding: 2px 0;
+  background: transparent;
+}
